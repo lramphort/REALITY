@@ -14,7 +14,7 @@
         <Slider HorizontalOptions="Center" 
                 
                 Minimum="0" 
-                Maximum="10" />
+                Maximum="20" />
     </StackLayout>
 
 </ContentPage>
